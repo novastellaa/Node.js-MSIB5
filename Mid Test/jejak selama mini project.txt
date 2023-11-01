@@ -1,0 +1,29 @@
+masih error dibagian inputan categories,customer nya !!!
+file tugas-mini-project bisa input menu,customer,categories
+file mini-project-restaurant bisa melakukan order dengan sempurna, tetapi error dibagian inputan categories,customer nya
+
+
+!!! SELESAIKAN MALAM INI !!!
+
+NOTE: KALO SELESAI MALEM INI BELI MARTABAK MANIS COKLAT KEJU	
+
+
+=== update 12.45 ===
+
+FOKUS KE TUGAS-MINI-PROJECT
+
+- di file tugas-mini-project masih belum ada validasi menu,customer,categories dan bisa melakukan request order dan response juga benar tetapi di database tidak masuk. === alhamdulillah clear ===
+
+- response dari data berhasil dibuat, diperbarui, dihapus (customer,menu,categories) tinggal terusin dari resp menu. == CLEAR ==
+
+- ulik lagi order controller dan order model nya. == CLEAR ==
+
+- update orderController dari openai == CLEAR ==
+
+- buat history == CLEAR ==
+
+- buat validasi customer,categories,menu == CLEAR ==
+
+- buat update menu dan categories seperti update customer == CLEAR ==
+
+
